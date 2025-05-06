@@ -1,1 +1,1 @@
-Hello. This blog will be used to document my learnings from Jeremy Howard's course ['Practical Deep Learning for Coders'](https://course.fast.ai/) and its corresponding book ['Deep Learning for Coders with Fastai and PyTorch'](https://course.fast.ai/).
+Hello. This blog will be used to document my learnings from Jeremy Howard's course ['Practical Deep Learning for Coders'](https://course.fast.ai/) and its corresponding book ['Deep Learning for Coders with Fastai and PyTorch'](https://github.com/fastai/fastbook).
