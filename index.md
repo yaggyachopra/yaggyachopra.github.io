@@ -1,7 +1,1 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Hello. This blog will be used to document my learnings from Jeremy Howard's course ['Practical Deep Learning for Coders'](https://course.fast.ai/) and its corresponding book ['Deep Learning for Coders with Fastai and PyTorch'](https://course.fast.ai/).
